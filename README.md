@@ -1,25 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+chat_app
 
-Things you may want to cover:
+Overview
+This app is able to make you chat with your firiends on web.
+This is so simple app for learning.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# chat_app
+##What can this app do for us
+*We can chat with firend on a one-to-one basis.
