@@ -12,6 +12,7 @@
     <p calss="notice"><%= notice %></p>
     <p calss="alert"><%= alert %></p>
     <% if user_signed_in? %>
+     <%= current_user.username %>	    
      <p><%= link_to "ログアウト", destroy_user_session_path, method: :delete %></p>
     <% end %>
   </body>
